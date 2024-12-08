@@ -98,3 +98,19 @@ button:hover {
 p {
     margin: 5px 0;
 }
+
+#steelers-logo {
+    display: block;
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
+
+#bingo-gif {
+    display: block;
+    max-width: 50%;
+    height: auto;
+    margin-bottom: 20px;
+    margin: 0 auto;
+}
